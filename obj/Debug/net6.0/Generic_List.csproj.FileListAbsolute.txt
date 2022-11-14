@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\bin\Debug\net6.0\Generic_List.exe
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\bin\Debug\net6.0\Generic_List.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\bin\Debug\net6.0\Generic_List.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\bin\Debug\net6.0\Generic_List.dll
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\bin\Debug\net6.0\Generic_List.pdb
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.dll
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\refint\Generic_List.dll
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.pdb
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\Generic_List.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Generic_List\obj\Debug\net6.0\ref\Generic_List.dll
